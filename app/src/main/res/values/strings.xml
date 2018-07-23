@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FitApp</string>
+    <string name="workout_string">Workouts</string>
+    <string name="body_string">Body</string>
+    <string name="progress_string">Progress</string>
+    <string name="calendar_string">Calendar</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_workouts"
+        android:enabled="true"
+        android:icon="@drawable/ic_workouts_nav"
+        android:title="@string/workout_string"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_body"
+        android:enabled="true"
+        android:icon="@drawable/ic_body_nav"
+        android:title="@string/body_string"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_progress"
+        android:enabled="true"
+        android:icon="@drawable/ic_progress_nav"
+        android:title="@string/progress_string"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_calendar"
+        android:enabled="true"
+        android:icon="@drawable/ic_calendar_nav"
+        android:title="@string/calendar_string"
+        app:showAsAction="ifRoom" />
+</menu>
